@@ -51,6 +51,10 @@ This project supports the following platforms:
 
 - `gm [-<flag> | --<flag>] <argument>`
 
+## Releases
+
+- **LSR**: [v0.0.1](https://github.com/Gitomation/gm/releases/tag/v0.0.1)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repo, make changes, and submit pull requests. Open issues for bugs or feature requests.
