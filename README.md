@@ -2,7 +2,7 @@
 
 ## Overview
 
-Gitomation is the automation tool for git by harnessing LLM.
+Gitomation is the automation tool for Git build by harnessing LLM.
 
 ## Features
 
@@ -49,7 +49,7 @@ This project supports the following platforms:
 
 ## Usage
 
-- cargo run -- [-<flag> --<flag>|] <argument>
+- `gm [-<flag> | --<flag>] <argument>`
 
 ## Contributing
 
